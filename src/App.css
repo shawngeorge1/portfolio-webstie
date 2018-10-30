@@ -1,0 +1,53 @@
+.tab-list {
+    border-bottom: 1px solid #eceeef;
+    padding-left: 0;
+  }
+  
+  .tab-list-item {
+    display: inline-block;
+    list-style: none;
+    color: #55595c;
+    background-color: #fff;
+    margin-bottom: -1px;
+    padding: 0.5rem 0.75rem;
+  }
+  
+  .tab-list-active {
+    color: #55595c;
+    background-color: #fff;
+    border: solid #ccc;
+    border-width: 1px 1px 0 1px;
+  }
+
+  .tab-text {
+    color: black;
+    padding: 50px;
+    width: 500px;
+    height: 100px;
+    border: 1px solid white;
+  }
+
+  .twitter-feed {
+    color: black;
+    padding: .5rem 30rem;
+    width: 50000px;
+    height: 500px;
+    border: 1px solid white;
+  }
+
+  .picture-text {
+    color: black;
+    padding: 100px;
+    width: 50px;
+    height: 50px;
+    border: 1px solid white;
+  }
+
+
+  .footer {
+    width: 50px;
+    height: 50px;
+  }
+
+
+  
